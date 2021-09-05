@@ -1,2 +1,2 @@
 // Ejercicio 2
-//empe
+document.write('hola mundo');
